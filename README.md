@@ -108,3 +108,8 @@ The assistant sends academic context only when you submit a question or generate
 Local insights remain available without credentials. Gemini remains selectable.
 API documentation: https://developers.openai.com/api/docs/quickstart
 CSV writes now use atomic replacement; failed writes reload the saved records.
+
+
+## GitHub repository
+
+Repository: group-project. This is our group work.
