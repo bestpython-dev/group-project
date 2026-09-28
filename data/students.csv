@@ -1,0 +1,9 @@
+student_id,name,email,phone,course,grade
+STU001,Amina Bello,amina.bello@uni.edu.ng,08031234567,Computer Science,87
+STU002,Chinedu Okeke,chinedu.okeke@uni.edu.ng,08023334455,Computer Science,74
+STU003,Fatima Yusuf,fatima.yusuf@uni.edu.ng,08045556677,Information Systems,62
+STU004,Tunde Adeyemi,tunde.adeyemi@uni.edu.ng,+2348039988776,Software Engineering,91
+STU005,Blessing Eze,blessing.eze@uni.edu.ng,08123450987,Computer Science,48
+STU006,Ibrahim Musa,ibrahim.musa@uni.edu.ng,07033445566,Information Systems,39
+STU007,Ngozi Nwankwo,ngozi.nwankwo@uni.edu.ng,09088776655,Software Engineering,68
+STU008,Yusuf Abdullahi,yusuf.abdullahi@uni.edu.ng,08056667788,Computer Science,55
